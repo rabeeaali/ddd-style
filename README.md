@@ -1,4 +1,4 @@
-## Laravel DDD Porject Style
+## Laravel DDD Project Style
 
 
 ```Bash
